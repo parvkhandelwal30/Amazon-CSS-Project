@@ -63,4 +63,9 @@ This project is a responsive front-end clone of the Amazon website, designed usi
 
 
 # 🧑‍💻 Author
+  
   Parv Khandelwal
+
+# 📧 Contact
+  
+  For any queries, reach out at parvkhandelwal30@gmail.com
